@@ -4,5 +4,5 @@ This is Demo for Git &amp; Github class.
 # Teacher
 Apna College
 
-# gtiStudent
+# gitStudent
 Aditya Dhaware
